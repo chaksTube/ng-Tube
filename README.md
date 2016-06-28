@@ -1,6 +1,6 @@
 # ng-Tube
 
-This project is an Main site of TubeBus [AngularJS](http://tubebus.com) web app.
+This project is an Main site of [TubeBus AngularJS](http://tubebus.com) web app.
 
 ## Getting Started
 
